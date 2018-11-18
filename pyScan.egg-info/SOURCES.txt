@@ -1,0 +1,7 @@
+README.md
+setup.py
+pyScan.egg-info/PKG-INFO
+pyScan.egg-info/SOURCES.txt
+pyScan.egg-info/dependency_links.txt
+pyScan.egg-info/requires.txt
+pyScan.egg-info/top_level.txt
